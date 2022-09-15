@@ -25,8 +25,8 @@ redirect_from:
   * National 3rd, Beidou-Cup China Adolescents Science & Technology Invention Contest
 * Business Competition
   * Innovation and Entrepreneurship Plan
-    **  National 2nd, Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, 2022
-    **  Provincial 1st, China College Students "Internet+" Innovation and Entrepreneurship Competition, 2021
+    * National 2nd, Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, 2022
+    * Provincial 1st, China College Students "Internet+" Innovation and Entrepreneurship Competition, 2021
   * Marketing
     **  National 3rd, 2022 Youth-storm Microsoft Business Analytics Challenge, 2022
   * Finance
