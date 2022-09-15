@@ -10,29 +10,28 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* B.E. in Xidian University, 2020-2024 (FUTURE)
+* B.E. Aerospace science and technology, Xidian University, 2020-2024 (FUTURE)
 
 # Experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* mathematical contest in modeling, 2021.1-2021.8
+  * latex and paper reading
+  * basic understanding of mathmatical model
+* Electronics Design contest Contest, 2022.4-2022.7
+  * basic operation of MCU, mainly stm32
+  * basic design of Analog and digital circuit
+* [Beidou Competition related Contest](http://www.bdlead.cn/), 2021.10-2022.9
+* Business Competition
+  * Innovation and entrepreneurship
+  * financial investment analysis
+  * consulting
   
 # Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* basic operation of github, git etc.
+* basic operation of linux(Ubontu) and windows
 * Skill 3
 
 # Awards
+
   
 # Service and leadership
 ======
