@@ -12,27 +12,24 @@ redirect_from:
 # Education
 * B.E. Aerospace science and technology, Xidian University, 2020-2024 (FUTURE)
 
-# Experience
-* mathematical contest in modeling, 2021.1-2021.8
+# Experience and Awards
+* National Scholarship
+* Mathematical Contest in Modeling, 2021.1-2021.8, Finalist in ICM
   * latex and paper reading
   * basic understanding of mathmatical model
-* Electronics Design contest Contest, 2022.4-2022.7
+* Electronics Design Contest Contest, 2022.4-2022.7
   * basic operation of MCU, mainly stm32
   * basic design of Analog and digital circuit
 * [Beidou Competition related Contest](http://www.bdlead.cn/), 2021.10-2022.9
+  * National 3rd, Beidou-Cup China Adolescents Science & Technology Invention Contest
 * Business Competition
-  * Innovation and entrepreneurship
-  * financial investment analysis
-  * consulting
+  * Innovation and Entrepreneurship Plan
   
-# Skills
+# Skills and Interests
 * basic operation of github, git etc.
 * basic operation of linux(Ubontu) and windows
-* Skill 3
+* AI and Fintech (Studying)
 
-# Awards
-
-  
 # Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Monitor in current class
+* Chairman in STIC, 2021-2022 (*Science and Technology Innovation Club of Xidian University*)
