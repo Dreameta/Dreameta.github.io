@@ -18,5 +18,5 @@ Hi, there. I am an undergraduate student of Qian Xuesen Aerospace Science Experi
 
 
 ### Thanks
-Thank you to all the people I met in my whole life.
+Thanks to all the people I met in my whole life.
 
