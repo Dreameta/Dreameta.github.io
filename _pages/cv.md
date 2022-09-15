@@ -28,9 +28,9 @@ redirect_from:
     * National 2nd, Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, 2022
     * Provincial 1st, China College Students "Internet+" Innovation and Entrepreneurship Competition, 2021
   * Marketing
-    **  National 3rd, 2022 Youth-storm Microsoft Business Analytics Challenge, 2022
+    * National 3rd, 2022 Youth-storm Microsoft Business Analytics Challenge, 2022
   * Finance
-    **  Team 1st, CFA Elite Summer Boot Camp, 2021
+    * Team 1st, CFA Elite Summer Boot Camp, 2021
   
 ## Skills and Interests
 * basic operation : github, git, linux(Ubontu) etc.
