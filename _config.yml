@@ -92,7 +92,7 @@ author:
   googlescholar    : 
   email            : "mxwang.offical@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.zhihu.com/people/dreameta"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/19514665/dreameta" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -117,7 +117,7 @@ author:
   weibo            : 
   xing             :
   youtube          :
-  wikipedia        : "https://www.zhihu.com/people/dreameta"
+  wikipedia        : 
   zhihu            : "https://www.zhihu.com/people/dreameta"
 
 
