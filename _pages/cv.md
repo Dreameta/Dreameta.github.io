@@ -18,7 +18,7 @@ redirect_from:
 * Mathematical Contest in Modeling, 2021.1-2021.8
   * basic understanding of mathmatical model, latex and paper reading
   * Finalist in ICM, 2021
-* (Electronics Design Contest Contest)[https://www.nuedc-training.com.cn/], 2022.4-2022.7
+* [Electronics Design Contest Contest](https://www.nuedc-training.com.cn/), 2022.4-2022.7
   * basic operation of MCU, mainly stm32, basic design of Analog and digital circuit
   * Provincial 3rd, 10th TI Cup Shaanxi Intercollegiate League of Engineering Universities
 * [Beidou Competition related Contest](http://www.bdlead.cn/), 2021.10-2022.9
