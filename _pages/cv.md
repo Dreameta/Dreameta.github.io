@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 * B.E. Aerospace science and technology, Xidian University, 2020-2024 (FUTURE)
 
-# Experience and Awards
+## Experience and Awards
 * National Scholarship
 * Mathematical Contest in Modeling, 2021.1-2021.8, Finalist in ICM
   * latex and paper reading
@@ -25,11 +25,11 @@ redirect_from:
 * Business Competition
   * Innovation and Entrepreneurship Plan
   
-# Skills and Interests
+## Skills and Interests
 * basic operation of github, git etc.
 * basic operation of linux(Ubontu) and windows
 * AI and Fintech (Studying)
 
-# Service and leadership
+## Service and leadership
 * Monitor in current class
 * Chairman in STIC, 2021-2022 (*Science and Technology Innovation Club of Xidian University*)
