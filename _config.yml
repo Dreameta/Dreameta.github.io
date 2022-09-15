@@ -9,7 +9,7 @@
 locale                   : "Xi'an, China"
 title                    : "Dreameta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mengxiang Wang"
 description              : &description "personal description"
 url                      : https://dreameta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jackson Wang"
   avatar           : "IMG_20220704_170402.jpg"
-  bio              : "A foolish student still exploring"
+  bio              : "A foolish student still exploring in Xidian University"
   location         : "Xi'an, China"
   employer         : 
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihui           : https://www.zhihu.com/people/dreameta
 
 
 # Reading Files
