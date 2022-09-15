@@ -109,7 +109,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "19514665/dreameta" # 123456/username
+  stackoverflow    : #"19514665/dreameta" # 123456/username
   steam            :
   tumblr           :
   twitter          : 
@@ -118,7 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-  zhihu            : "https://www.zhihu.com/people/dreameta"
+#  zhihu            : "https://www.zhihu.com/people/dreameta"
 
 
 # Reading Files
