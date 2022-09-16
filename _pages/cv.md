@@ -21,8 +21,9 @@ redirect_from:
 * [Electronics Design Contest Contest](https://www.nuedc-training.com.cn/), 2022.4-2022.7
   * basic operation of MCU, mainly stm32, basic design of Analog and digital circuit
   * Provincial 3rd, 10th TI Cup Shaanxi Intercollegiate League of Engineering Universities
-* [Beidou Competition related Contest](http://www.bdlead.cn/), 2021.10-2022.9
-  * National 3rd, Beidou-Cup China Adolescents Science & Technology Invention Contest
+* Beidou Competition related Contest, 2021.10-2022.9
+  * National 3rd, [Beidou-Cup China Adolescents Science & Technology Invention Contest](http://www.bdlead.cn/)
+  * National Special, [“2022BDStars” Innovation and Entrepreneurship Competition • Silk Road International Challenge](http://www.glac.org.cn/index.php?m=content&c=index&a=show&catid=31&id=8984)
 * Business Competition
   * Innovation and Entrepreneurship Plan
     * National 2nd, Service Outsourcing Innovation and Entrepreneurship Competition for Chinese College Students, 2022
